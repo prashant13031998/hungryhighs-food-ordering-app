@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/hungryhighs-food-ordering-app/static/css/main.4dbc1088.chunk.css",
+    "main.js": "/hungryhighs-food-ordering-app/static/js/main.48d8e155.chunk.js",
+    "main.js.map": "/hungryhighs-food-ordering-app/static/js/main.48d8e155.chunk.js.map",
+    "runtime-main.js": "/hungryhighs-food-ordering-app/static/js/runtime-main.02893b06.js",
+    "runtime-main.js.map": "/hungryhighs-food-ordering-app/static/js/runtime-main.02893b06.js.map",
+    "static/js/2.ff033d89.chunk.js": "/hungryhighs-food-ordering-app/static/js/2.ff033d89.chunk.js",
+    "static/js/2.ff033d89.chunk.js.map": "/hungryhighs-food-ordering-app/static/js/2.ff033d89.chunk.js.map",
+    "index.html": "/hungryhighs-food-ordering-app/index.html",
+    "static/css/main.4dbc1088.chunk.css.map": "/hungryhighs-food-ordering-app/static/css/main.4dbc1088.chunk.css.map",
+    "static/js/2.ff033d89.chunk.js.LICENSE.txt": "/hungryhighs-food-ordering-app/static/js/2.ff033d89.chunk.js.LICENSE.txt",
+    "static/media/meals.2971f633.jpg": "/hungryhighs-food-ordering-app/static/media/meals.2971f633.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.02893b06.js",
+    "static/js/2.ff033d89.chunk.js",
+    "static/css/main.4dbc1088.chunk.css",
+    "static/js/main.48d8e155.chunk.js"
+  ]
+}
